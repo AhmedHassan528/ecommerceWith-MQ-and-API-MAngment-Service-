@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ecommerceWith(MQ and API MAngment Service)</name>
+    </assembly>
+    <members>
+        <member name="T:ecommerceWith_MQ_and_API_MAngment_Service_.Migrations.inti">
+            <inheritdoc />
+        </member>
+        <member name="M:ecommerceWith_MQ_and_API_MAngment_Service_.Migrations.inti.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ecommerceWith_MQ_and_API_MAngment_Service_.Migrations.inti.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ecommerceWith_MQ_and_API_MAngment_Service_.Migrations.inti.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

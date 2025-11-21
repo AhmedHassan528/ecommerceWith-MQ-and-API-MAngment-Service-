@@ -1,0 +1,6 @@
+@ecommerceWith_MQ_and_API_MAngment_Service__HostAddress = http://localhost:5248
+
+GET {{ecommerceWith_MQ_and_API_MAngment_Service__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
