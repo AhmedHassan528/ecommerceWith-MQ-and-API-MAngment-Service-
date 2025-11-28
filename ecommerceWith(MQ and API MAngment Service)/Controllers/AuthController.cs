@@ -197,7 +197,7 @@ namespace Authentication_With_JWT.Controllers
             if (User.Identity != null && User.Identity.IsAuthenticated)
                 return Ok(new { isAuthenticated = true });
 
-            return BadRequest(new { isAuthenticated = false });
+            return Ok(new { isAuthenticated = false });
         }
 
         [HttpGet("CheckAdmin")]

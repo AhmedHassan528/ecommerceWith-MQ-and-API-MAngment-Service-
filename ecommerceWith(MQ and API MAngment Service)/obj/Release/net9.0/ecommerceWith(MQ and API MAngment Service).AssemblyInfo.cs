@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ecommerceWith(MQ and API MAngment Service)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5f15cefe3503c940bbcd380d1b1d121bbb8130e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ecommerceWith(MQ and API MAngment Service)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ecommerceWith(MQ and API MAngment Service)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -172,3 +172,4 @@ H:\c#\ecommerceWith(MQ and API MAngment Service)\ecommerceWith(MQ and API MAngme
 H:\c#\ecommerceWith(MQ and API MAngment Service)\ecommerceWith(MQ and API MAngment Service)\obj\Release\net9.0\ecommerceWith(MQ and API MAngment Service).pdb
 H:\c#\ecommerceWith(MQ and API MAngment Service)\ecommerceWith(MQ and API MAngment Service)\obj\Release\net9.0\ecommerceWith(MQ and API MAngment Service).genruntimeconfig.cache
 H:\c#\ecommerceWith(MQ and API MAngment Service)\ecommerceWith(MQ and API MAngment Service)\obj\Release\net9.0\ref\ecommerceWith(MQ and API MAngment Service).dll
+H:\c#\ecommerceWith(MQ and API MAngment Service)\ecommerceWith(MQ and API MAngment Service)\obj\Release\net9.0\ecommerceWith(MQ and API MAngment Service).sourcelink.json

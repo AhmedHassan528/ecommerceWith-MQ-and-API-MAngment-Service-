@@ -182,23 +182,23 @@ namespace Authentication_With_JWT.Services
 
         public async Task<string> setAdminRole(string AdminID, string userEmail)
         {
-            //var user = await _userManager.FindByEmailAsync(userEmail);
+            // var user = await _userManager.FindByEmailAsync(userEmail);
 
-            //if (!await _roleManager.RoleExistsAsync("Admin"))
-            //{
+            // if (!await _roleManager.RoleExistsAsync("Admin"))
+            // {
             //    var roleResult = await _roleManager.CreateAsync(new IdentityRole("Admin"));
             //    if (!roleResult.Succeeded)
             //    {
             //        throw new Exception("Failed to create Admin role");
             //    }
-            //}
+            // }
 
-            //var addToRoleResult = await _userManager.AddToRoleAsync(user, "Admin");
-            //if (!addToRoleResult.Succeeded)
-            //{
+            // var addToRoleResult = await _userManager.AddToRoleAsync(user, "Admin");
+            // if (!addToRoleResult.Succeeded)
+            // {
             //    throw new Exception("Failed to add Admin");
-            //}
-            //return "User is now an Admin";
+            // }
+            // return "User is now an Admin";
 
 
             try
